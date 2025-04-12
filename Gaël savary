@@ -1,0 +1,55 @@
+<html lang="fr"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            text-align: center;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            text-align: left;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+<meta name="AdsMetadata" content="{&quot;advertisingPlatform&quot;:{&quot;idType&quot;:&quot;IAB_GVL_ID&quot;,&quot;id&quot;:1,&quot;name&quot;:&quot;Microsoft&quot;},&quot;targetingCategory&quot;:{&quot;geoLocation&quot;:&quot;NOT_USED&quot;,&quot;remarketing&quot;:&quot;NOT_USED&quot;,&quot;userCharacteristics&quot;:[],&quot;userInterests&quot;:true,&quot;context&quot;:false,&quot;device&quot;:false,&quot;lookalike&quot;:&quot;NOT_USED&quot;,&quot;other&quot;:false},&quot;ads&quot;:[{&quot;id&quot;:&quot;tab_panel_nativead-peekinfopane-15&quot;,&quot;advertiserDomain&quot;:&quot;twinjet.fr&quot;,&quot;advertiserName&quot;:&quot;twinjet.fr&quot;,&quot;type&quot;:&quot;NATIVE&quot;}]}"><meta name="AdsMetadata" content="{&quot;advertisingPlatform&quot;:{&quot;idType&quot;:&quot;IAB_GVL_ID&quot;,&quot;id&quot;:1,&quot;name&quot;:&quot;Microsoft&quot;},&quot;targetingCategory&quot;:{&quot;geoLocation&quot;:&quot;NOT_USED&quot;,&quot;remarketing&quot;:&quot;NOT_USED&quot;,&quot;userCharacteristics&quot;:[&quot;AGE_GROUP&quot;],&quot;userInterests&quot;:true,&quot;context&quot;:false,&quot;device&quot;:false,&quot;lookalike&quot;:&quot;NOT_USED&quot;,&quot;other&quot;:false},&quot;ads&quot;:[{&quot;id&quot;:&quot;native_ad_nativead-peekriver-2&quot;,&quot;advertiserDomain&quot;:&quot;forgeofempires.com&quot;,&quot;advertiserName&quot;:&quot;Forge of Empires&quot;,&quot;type&quot;:&quot;NATIVE&quot;}]}"><meta name="AdsMetadata" content="{&quot;advertisingPlatform&quot;:{&quot;idType&quot;:&quot;IAB_GVL_ID&quot;,&quot;id&quot;:1,&quot;name&quot;:&quot;Microsoft&quot;},&quot;targetingCategory&quot;:{&quot;geoLocation&quot;:&quot;NOT_USED&quot;,&quot;remarketing&quot;:&quot;NOT_USED&quot;,&quot;userCharacteristics&quot;:[],&quot;userInterests&quot;:true,&quot;context&quot;:false,&quot;device&quot;:false,&quot;lookalike&quot;:&quot;NOT_USED&quot;,&quot;other&quot;:false},&quot;ads&quot;:[{&quot;id&quot;:&quot;native_ad_nativead-peekriver-3&quot;,&quot;advertiserDomain&quot;:&quot;top5jeuxenligne.fr&quot;,&quot;advertiserName&quot;:&quot;top5jeuxenligne.fr&quot;,&quot;type&quot;:&quot;NATIVE&quot;}]}"><meta name="AdsMetadata" content="{&quot;advertisingPlatform&quot;:{&quot;idType&quot;:&quot;IAB_GVL_ID&quot;,&quot;id&quot;:1,&quot;name&quot;:&quot;Microsoft&quot;},&quot;targetingCategory&quot;:{&quot;geoLocation&quot;:&quot;NOT_USED&quot;,&quot;remarketing&quot;:&quot;NOT_USED&quot;,&quot;userCharacteristics&quot;:[],&quot;userInterests&quot;:true,&quot;context&quot;:false,&quot;device&quot;:false,&quot;lookalike&quot;:&quot;NOT_USED&quot;,&quot;other&quot;:false},&quot;ads&quot;:[{&quot;id&quot;:&quot;native_ad_nativead-peekriver-5&quot;,&quot;advertiserDomain&quot;:&quot;seafight.com&quot;,&quot;advertiserName&quot;:&quot;seafight.com&quot;,&quot;type&quot;:&quot;NATIVE&quot;}]}"></head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+    </header>
+    <section>
+        <h2>À propos</h2>
+        <p>Ceci est un site web simple pour montrer un design propre et moderne.</p>
+        <a href="https://pokemon98.webnode.fr" class="btn">Cliquez ici</a>
+    </section>
+
+
+</body></html>
